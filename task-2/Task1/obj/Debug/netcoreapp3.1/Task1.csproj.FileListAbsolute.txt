@@ -1,0 +1,10 @@
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\obj\Debug\netcoreapp3.1\Task1.sourcelink.json
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\AFG\Desktop\.Net\L1\L1 program\Tasks\2\Task1\obj\Debug\netcoreapp3.1\Task1.pdb

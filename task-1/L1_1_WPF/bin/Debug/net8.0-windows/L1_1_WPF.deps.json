@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L1_1_WPF/1.0.0": {
+        "dependencies": {
+          "HelloWorldStandardLibrary": "1.0.0"
+        },
+        "runtime": {
+          "L1_1_WPF.dll": {}
+        }
+      },
+      "HelloWorldStandardLibrary/1.0.0": {
+        "runtime": {
+          "HelloWorldStandardLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L1_1_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HelloWorldStandardLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

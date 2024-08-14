@@ -1,0 +1,11 @@
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\bin\Debug\net8.0\HelloWorldStandardLibrary.deps.json
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\bin\Debug\net8.0\HelloWorldStandardLibrary.dll
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\bin\Debug\net8.0\HelloWorldStandardLibrary.pdb
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\obj\Debug\net8.0\HelloWorldStandardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\obj\Debug\net8.0\HelloWorldStandardLibrary.AssemblyInfoInputs.cache
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\obj\Debug\net8.0\HelloWorldStandardLibrary.AssemblyInfo.cs
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\obj\Debug\net8.0\HelloWorldStandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\obj\Debug\net8.0\HelloWorldStandardLibrary.dll
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\obj\Debug\net8.0\refint\HelloWorldStandardLibrary.dll
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\obj\Debug\net8.0\HelloWorldStandardLibrary.pdb
+C:\Users\AFG\source\repos\L1\HelloWorldStandardLibrary\obj\Debug\net8.0\ref\HelloWorldStandardLibrary.dll

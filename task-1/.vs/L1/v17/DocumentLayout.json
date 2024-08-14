@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AFG\\source\\repos\\L1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD760764-1849-48C5-8A76-34B580C4AF3F}|L1\\L1.csproj|c:\\users\\afg\\source\\repos\\l1\\l1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD760764-1849-48C5-8A76-34B580C4AF3F}|L1\\L1.csproj|solutionrelative:l1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059388D7-7787-441E-AD06-0D20E14DEFB5}|HelloWorldStandardLibrary\\HelloWorldStandardLibrary.csproj|c:\\users\\afg\\source\\repos\\l1\\helloworldstandardlibrary\\helloworldlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059388D7-7787-441E-AD06-0D20E14DEFB5}|HelloWorldStandardLibrary\\HelloWorldStandardLibrary.csproj|solutionrelative:helloworldstandardlibrary\\helloworldlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\source\\repos\\L1\\HelloWorldStandardLibrary\\HelloWorldLibrary.cs",
+              "RelativeDocumentMoniker": "HelloWorldStandardLibrary\\HelloWorldLibrary.cs",
+              "ToolTip": "C:\\Users\\AFG\\source\\repos\\L1\\HelloWorldStandardLibrary\\HelloWorldLibrary.cs",
+              "RelativeToolTip": "HelloWorldStandardLibrary\\HelloWorldLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:04:06.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AFG\\source\\repos\\L1\\L1\\Program.cs",
+              "RelativeDocumentMoniker": "L1\\Program.cs",
+              "ToolTip": "C:\\Users\\AFG\\source\\repos\\L1\\L1\\Program.cs",
+              "RelativeToolTip": "L1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:08:01.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
